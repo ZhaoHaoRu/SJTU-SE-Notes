@@ -8,7 +8,7 @@
 
 ## 添加查询元素
 
-- 对于n个哈希函数的一种选取：$*****h_i(x) = MD5(x + i)*****$
+- 对于n个哈希函数的一种选取：$h_i(x) = MD5(x + i)$
 
 ![Untitled](BloomFilter%207d041179d14a47e990f93bc63cc9d4d3/Untitled.png)
 
